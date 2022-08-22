@@ -25,7 +25,7 @@ $ cmake -S .. -D BUILD_SHARED_LIBS=ON -D BUILD_DEMO=ON -DCMAKE_INSTALL_PREFIX=..
 $ cmake --build . --parallel 2 --target install  
 ```
 
-### Configuration
+### Configuration 
 
 |           | option                        | description            | default |
 | --------- | ----------------------------- | ---------------------- | ------- | 
